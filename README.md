@@ -83,3 +83,6 @@ similar to the one we have made. The logical, physical, as well as the CRUD quer
 successfully prepared us for working with databases either with companies or for a personal
 project that we can decide to work on in the future.
 
+**Credit:**
+
+David Chun, Sanjana Sankar, James Igwenagu, Ryan Flint, Ildreed Mbami
