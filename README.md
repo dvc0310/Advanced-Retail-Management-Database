@@ -1,4 +1,4 @@
-# Team-Project-Store-Database
+# Advanced Retail Management Database
 
 **Introduction:**
 
